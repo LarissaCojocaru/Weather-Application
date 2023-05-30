@@ -1,12 +1,6 @@
 Weather Application
 
-Proiectul include o pagină principală cu un videoclip de fundal, un titlu cu o mică descriere și un buton. De asemenea, există o pagină numită "Weather", unde poți selecta orice țară sau oraș și vei primi datele orașului și datele meteo.
-Pentru datele orașului, vei primi țara, statul și regiunea, iar pentru datele meteo, vei primi detalii despre vremea actuală și temperatura pentru următoarele 6 ore și temperatura pentru următoarele 6 zile.
-Făcând clic pe butonul "Salvează", vei salva datele orașului în localstorage și vei fi redirecționat către pagina "Favourite City", unde vei găsi o tabelă care arată datele orașelor salvate și poziția în hartă a fiecărui oraș salvat.
-Există, de asemenea, un antet pentru a naviga de la o pagină la alta.
-În ceea ce privește temele, există 2 teme: ziua și noaptea (nu se poate face mai mult pentru că acesta este setul de date furnizat de API-ul de vreme).
-API urile folosite de mine sunt de pe https://www.weatherapi.com si https://www.maptiler.com/
-
+The project includes a homepage with a background video, a title with a brief description, and a button. Additionally, there is a page called "Weather" where you can select any country or city and receive the city's data and weather information. For the city's data, you will receive the country, state, and region, while for the weather information, you will receive details about the current weather and temperature for the next 6 hours, as well as the temperature for the next 6 days. By clicking the "Save" button, you will save the city's data in local storage and be redirected to the "Favorite City" page, where you will find a table displaying the saved city's data and the map location of each saved city. There is also a header to navigate between pages. Regarding themes, there are two options: day and night (as more data is not provided by the weather API). The APIs used are from https://www.weatherapi.com and https://www.maptiler.com/.
 
 # WeatherApp
 
